@@ -13,3 +13,20 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# IDE
+.idea/
+.vscode/
+
+# build
+.gradle/
+build/
+.dart_tool/
+
+# python
+__pycache__/
+*.py[cod]
+
+# local
+.env
+.claude/
